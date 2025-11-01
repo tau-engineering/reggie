@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "fumadocs-core": "15.8.2",
+    "fumadocs-core": "16.0.7",
     "fumadocs-mdx": "11.10.1",
     "fumadocs-ui": "15.8.2",
     "next": "15.5.4",
