@@ -11,7 +11,7 @@
   "dependencies": {
     "fumadocs-core": "15.8.2",
     "fumadocs-mdx": "11.10.1",
-    "fumadocs-ui": "15.8.2",
+    "fumadocs-ui": "16.13.0",
     "next": "15.5.4",
     "react": "19.2.0",
     "react-dom": "19.2.0"
